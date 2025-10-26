@@ -1,0 +1,5 @@
+id,time_iso,updated_iso,mag,place,latitude,longitude,depth,type,status,tsunami,sig
+nc75254926,2025-10-26T19:11:54.530000+00:00,2025-10-26T19:17:21.731000+00:00,2.4,"8 km SSE of Huron, CA",36.1291656494141,-120.083999633789,10.6800003051758,earthquake,automatic,0,89
+ak025dqt1rxz,2025-10-26T19:08:26.791000+00:00,2025-10-26T19:10:06.390000+00:00,1.0,"23 km ENE of Minto, Alaska",65.2617,-148.9238,0.0,earthquake,automatic,0,15
+ak025dqsohpj,2025-10-26T18:46:28.822000+00:00,2025-10-26T18:49:49.014000+00:00,1.4,"4 km SSE of Nikiski, Alaska",60.653,-151.2623,58.9,earthquake,automatic,0,30
+us6000rjmj,2025-10-26T18:45:51.259000+00:00,2025-10-26T19:14:49.040000+00:00,4.4,"205 km SE of Pondaguitan, Philippines",4.9673,127.4078,133.998,earthquake,reviewed,0,298
